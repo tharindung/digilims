@@ -15,9 +15,9 @@ class DigilimsApplicationTests {
 	@Test
 	void contextLoads() {
 
-		logger.info("Test executed");
-
+		logger.info("Starting test case execution...");
 		assertEquals(true, true);
+		logger.info("Test executed");
 
 	}
 
