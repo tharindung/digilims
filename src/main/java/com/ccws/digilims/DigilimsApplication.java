@@ -15,6 +15,7 @@ public class DigilimsApplication {
 	public void init()
 	{
 		logger.info("Started Application");
+		logger.info("Added Jar name");
 	}
 
 	public static void main(String[] args) {
